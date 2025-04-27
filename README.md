@@ -1,6 +1,7 @@
 # Loan_default_prediction
-Understanding the behavior of customers and predicting their likelihood of not defaulting on their loans using machine learning
-Table of content
+Understanding the behavior of customers and predicting their likelihood of defaulting on their loans using machine learning algorithm.
+
+***Table of content***
 * Data cleaning and preparation
 * Exploratory data analysis
 * Train test split
